@@ -100,6 +100,7 @@
 <br>
 <br>
 - **Exemple de structure de page web** :
+  
     ```html
     <!DOCTYPE html>
     <html lang="fr">
