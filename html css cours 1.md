@@ -2,7 +2,7 @@
 
 #### 1. Introduction au HTML
 - **Concepts de base** :
-  - Qu'est-ce que HTML ? HyperText Markup Language, un langage de balisage. les balises sont entre chevrons `<p> paragraphe </p>`. Il sert à formater le texte des pages web : titre, sous-titres, paragraphe, listes, tableaux, liens, images, vidéo,... Hypertext signifie entres autres du texte avec des liens que l’on peut cliquer. (remarque web = toile, net = filet, network = réseau)
+    - Qu'est-ce que HTML ? HyperText Markup Language, un langage de balisage. les balises sont entre chevrons `<p> paragraphe </p>`. Il sert à formater le texte des pages web : titre, sous-titres, paragraphe, listes, tableaux, liens, images, vidéo,... Hypertext signifie entres autres du texte avec des liens que l’on peut cliquer. (remarque web = toile, net = filet, network = réseau)
   
 | élément | balise orpheline | structure d’une page html |
 |-------|------|------|
@@ -132,5 +132,5 @@
     ```
 #### 4. Conclusion
 - **Révision des concepts clés** :
-      - Importance de HTML et CSS.
-      - Comment ces technologies se complètent pour créer des pages web.
+  - Importance de HTML et CSS.
+  - Comment ces technologies se complètent pour créer des pages web.
