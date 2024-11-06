@@ -93,10 +93,10 @@
 #### 3. Application
 - **Créer une page web personnelle** :
       - Créer une page web personnelle en utilisant HTML et CSS. La page doit inclure :
-        - Un titre principal.
-        - Un paragraphe de présentation.
-        - Une liste de ses activités.
-        - Une image représentant des hobbies (par exemple, une image d'un livre, d'un sport, etc.).
+      - Un titre principal.
+      - Un paragraphe de présentation.
+      - Une liste de ses activités.
+      - Une image représentant des hobbies (par exemple, une image d'un livre, d'un sport, etc.).
 <br>
 <br>
 - **Exemple de structure de page web** :
